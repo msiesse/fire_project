@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tri", "tri\tri.csproj", "{C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rectangle", "rectangle\rectangle.csproj", "{8C14937C-7C37-4899-B364-F8CCFDE8E91D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anagrammes", "anagrammes\anagrammes.csproj", "{EF767879-FE11-4D8D-BAF1-282886891221}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,5 +39,9 @@ Global
 		{8C14937C-7C37-4899-B364-F8CCFDE8E91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C14937C-7C37-4899-B364-F8CCFDE8E91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C14937C-7C37-4899-B364-F8CCFDE8E91D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF767879-FE11-4D8D-BAF1-282886891221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF767879-FE11-4D8D-BAF1-282886891221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF767879-FE11-4D8D-BAF1-282886891221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF767879-FE11-4D8D-BAF1-282886891221}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

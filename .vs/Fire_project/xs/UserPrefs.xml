@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{26AA3394-0A07-4D5D-AE6B-E563729476A8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="rectangle/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="anagrammes/Program.cs">
     <Files>
-      <File FileName="rectangle/Program.cs" Line="8" Column="10" />
+      <File FileName="anagrammes/Program.cs" Line="9" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Fire_project" expanded="True">
-            <Node name="rectangle" expanded="True">
+            <Node name="anagrammes" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,6 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.anagrammes FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.majuscule FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.rectangle FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.tri FirstBuild="True" />
