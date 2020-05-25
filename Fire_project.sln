@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "escalier", "escalier\escalier.csproj", "{26AA3394-0A07-4D5D-AE6B-E563729476A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "majuscule", "majuscule\majuscule.csproj", "{264E4529-BA7D-43CA-B710-48473A33AFA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{26AA3394-0A07-4D5D-AE6B-E563729476A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26AA3394-0A07-4D5D-AE6B-E563729476A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26AA3394-0A07-4D5D-AE6B-E563729476A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264E4529-BA7D-43CA-B710-48473A33AFA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264E4529-BA7D-43CA-B710-48473A33AFA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264E4529-BA7D-43CA-B710-48473A33AFA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264E4529-BA7D-43CA-B710-48473A33AFA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

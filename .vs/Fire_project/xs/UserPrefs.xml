@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{26AA3394-0A07-4D5D-AE6B-E563729476A8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="escalier/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="majuscule/Program.cs">
     <Files>
-      <File FileName="escalier/Program.cs" Line="1" Column="1" />
+      <File FileName="majuscule/Program.cs" Line="35" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Fire_project" expanded="True">
-            <Node name="escalier" expanded="True">
+            <Node name="majuscule" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,6 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.majuscule FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
