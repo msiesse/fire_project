@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{26AA3394-0A07-4D5D-AE6B-E563729476A8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="tri/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="rectangle/Program.cs">
     <Files>
-      <File FileName="tri/Program.cs" Line="1" Column="1" />
+      <File FileName="rectangle/Program.cs" Line="8" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Fire_project" expanded="True">
-            <Node name="tri" expanded="True">
+            <Node name="rectangle" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,6 +16,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.majuscule FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.rectangle FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.tri FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

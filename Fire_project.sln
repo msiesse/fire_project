@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "factoriel", "factoriel\fact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tri", "tri\tri.csproj", "{C5A9F8E5-8096-4E05-8FDC-62C523919A0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rectangle", "rectangle\rectangle.csproj", "{8C14937C-7C37-4899-B364-F8CCFDE8E91D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,5 +33,9 @@ Global
 		{C5A9F8E5-8096-4E05-8FDC-62C523919A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5A9F8E5-8096-4E05-8FDC-62C523919A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5A9F8E5-8096-4E05-8FDC-62C523919A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C14937C-7C37-4899-B364-F8CCFDE8E91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C14937C-7C37-4899-B364-F8CCFDE8E91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C14937C-7C37-4899-B364-F8CCFDE8E91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C14937C-7C37-4899-B364-F8CCFDE8E91D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
