@@ -27,7 +27,7 @@ namespace escalier
         {
             int floors;
 
-            if (args.Length == 0)
+            if (args.Length == 0 || !int.TryParse(args[0], out _))
             {
                 floors = 0;
             }

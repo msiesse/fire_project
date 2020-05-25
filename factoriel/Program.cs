@@ -19,8 +19,8 @@ namespace factoriel
         {
             double num;
 
-            if (args.Length == 0)
-                num = 0;
+            if (args.Length == 0 || !double.TryParse(args[0], out _))
+                num = -1;
             else
                 num = Convert.ToDouble(args[0]);
 
