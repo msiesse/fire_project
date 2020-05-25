@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "majuscule", "majuscule\maju
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "factoriel", "factoriel\factoriel.csproj", "{65ECDF08-35F2-4626-B8DD-8A5F313F6EBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tri", "tri\tri.csproj", "{C5A9F8E5-8096-4E05-8FDC-62C523919A0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,5 +27,9 @@ Global
 		{65ECDF08-35F2-4626-B8DD-8A5F313F6EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65ECDF08-35F2-4626-B8DD-8A5F313F6EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65ECDF08-35F2-4626-B8DD-8A5F313F6EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A9F8E5-8096-4E05-8FDC-62C523919A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A9F8E5-8096-4E05-8FDC-62C523919A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A9F8E5-8096-4E05-8FDC-62C523919A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A9F8E5-8096-4E05-8FDC-62C523919A0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
