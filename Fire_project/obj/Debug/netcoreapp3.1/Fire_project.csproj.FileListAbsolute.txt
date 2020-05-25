@@ -1,0 +1,12 @@
+/Users/martinsiesse/Documents/Coding_accelerator/Week_1/Fire_project/Fire_project/bin/Debug/netcoreapp3.1/Fire_project.deps.json
+/Users/martinsiesse/Documents/Coding_accelerator/Week_1/Fire_project/Fire_project/bin/Debug/netcoreapp3.1/Fire_project.runtimeconfig.json
+/Users/martinsiesse/Documents/Coding_accelerator/Week_1/Fire_project/Fire_project/bin/Debug/netcoreapp3.1/Fire_project.runtimeconfig.dev.json
+/Users/martinsiesse/Documents/Coding_accelerator/Week_1/Fire_project/Fire_project/bin/Debug/netcoreapp3.1/Fire_project.dll
+/Users/martinsiesse/Documents/Coding_accelerator/Week_1/Fire_project/Fire_project/bin/Debug/netcoreapp3.1/Fire_project.pdb
+/Users/martinsiesse/Documents/Coding_accelerator/Week_1/Fire_project/Fire_project/obj/Debug/netcoreapp3.1/Fire_project.csprojAssemblyReference.cache
+/Users/martinsiesse/Documents/Coding_accelerator/Week_1/Fire_project/Fire_project/obj/Debug/netcoreapp3.1/Fire_project.AssemblyInfoInputs.cache
+/Users/martinsiesse/Documents/Coding_accelerator/Week_1/Fire_project/Fire_project/obj/Debug/netcoreapp3.1/Fire_project.AssemblyInfo.cs
+/Users/martinsiesse/Documents/Coding_accelerator/Week_1/Fire_project/Fire_project/obj/Debug/netcoreapp3.1/Fire_project.csproj.CoreCompileInputs.cache
+/Users/martinsiesse/Documents/Coding_accelerator/Week_1/Fire_project/Fire_project/obj/Debug/netcoreapp3.1/Fire_project.dll
+/Users/martinsiesse/Documents/Coding_accelerator/Week_1/Fire_project/Fire_project/obj/Debug/netcoreapp3.1/Fire_project.pdb
+/Users/martinsiesse/Documents/Coding_accelerator/Week_1/Fire_project/Fire_project/obj/Debug/netcoreapp3.1/Fire_project.genruntimeconfig.cache
