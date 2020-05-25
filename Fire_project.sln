@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "escalier", "escalier\escali
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "majuscule", "majuscule\majuscule.csproj", "{264E4529-BA7D-43CA-B710-48473A33AFA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "factoriel", "factoriel\factoriel.csproj", "{65ECDF08-35F2-4626-B8DD-8A5F313F6EBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{264E4529-BA7D-43CA-B710-48473A33AFA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{264E4529-BA7D-43CA-B710-48473A33AFA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{264E4529-BA7D-43CA-B710-48473A33AFA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65ECDF08-35F2-4626-B8DD-8A5F313F6EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65ECDF08-35F2-4626-B8DD-8A5F313F6EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65ECDF08-35F2-4626-B8DD-8A5F313F6EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65ECDF08-35F2-4626-B8DD-8A5F313F6EBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

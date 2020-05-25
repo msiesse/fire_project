@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{26AA3394-0A07-4D5D-AE6B-E563729476A8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="majuscule/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="factoriel/Program.cs">
     <Files>
-      <File FileName="majuscule/Program.cs" Line="35" Column="40" />
+      <File FileName="factoriel/Program.cs" Line="8" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Fire_project" expanded="True">
-            <Node name="majuscule" expanded="True">
+            <Node name="factoriel" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -22,5 +22,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.factoriel FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.escalier FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
