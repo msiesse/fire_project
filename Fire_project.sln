@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rectangle", "rectangle\rect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anagrammes", "anagrammes\anagrammes.csproj", "{EF767879-FE11-4D8D-BAF1-282886891221}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sudoku", "sudoku\sudoku.csproj", "{4298C4E0-D5BF-4D9B-8010-0C050C3FAEA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,5 +45,9 @@ Global
 		{EF767879-FE11-4D8D-BAF1-282886891221}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF767879-FE11-4D8D-BAF1-282886891221}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF767879-FE11-4D8D-BAF1-282886891221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4298C4E0-D5BF-4D9B-8010-0C050C3FAEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4298C4E0-D5BF-4D9B-8010-0C050C3FAEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4298C4E0-D5BF-4D9B-8010-0C050C3FAEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4298C4E0-D5BF-4D9B-8010-0C050C3FAEA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

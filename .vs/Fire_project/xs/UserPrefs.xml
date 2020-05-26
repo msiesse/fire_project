@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{26AA3394-0A07-4D5D-AE6B-E563729476A8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="anagrammes/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.sudoku FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sudoku/Program.cs">
     <Files>
-      <File FileName="anagrammes/Program.cs" Line="9" Column="13" />
+      <File FileName="sudoku/Program.cs" Line="114" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Fire_project" expanded="True">
-            <Node name="anagrammes" expanded="True">
+            <Node name="rectangle" expanded="True" />
+            <Node name="sudoku" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
