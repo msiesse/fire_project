@@ -7,4 +7,4 @@ the console.
 
 https://www.mono-project.com/download/preview/
 
-You can also test directly on Visual Studio Console
+You can also test directly on Visual Studio Console.
