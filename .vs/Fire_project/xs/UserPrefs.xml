@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{26AA3394-0A07-4D5D-AE6B-E563729476A8}|Default">
   <MonoDevelop.Ide.ItemProperties.sudoku FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="sudoku/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="factoriel_big/Program.cs">
     <Files>
-      <File FileName="sudoku/Program.cs" Line="114" Column="14" />
+      <File FileName="factoriel_big/Program.cs" Line="9" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Fire_project" expanded="True">
-            <Node name="rectangle" expanded="True" />
-            <Node name="sudoku" expanded="True">
+            <Node name="factoriel" expanded="True" />
+            <Node name="factoriel_big" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -19,6 +19,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.anagrammes FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.majuscule FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.factoriel__big FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.rectangle FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.tri FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
